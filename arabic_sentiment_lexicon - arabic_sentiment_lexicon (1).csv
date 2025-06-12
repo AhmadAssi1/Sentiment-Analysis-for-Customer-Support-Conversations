@@ -1,0 +1,1052 @@
+expression,label
+ممكن خدمة؟,Neutral
+ممكن المساعدة؟,Neutral
+مش مفهوم,Negative
+مش واضح,Negative
+مش فاهم,Negative
+رد غير واضح,Negative
+هل أستطيع التحويل؟,Neutral
+أسوأ تجربة,Negative
+ارتحت بالتعامل,Positive
+أفضل خدمة,Positive
+هل الخدمة متوفرة؟,Neutral
+أحتاج تفاصيل أكثر,Neutral
+ما في رد,Negative
+شكراً جزيلاً,Positive
+الرد سريع,Positive
+مشكلة مستمرة,Negative
+ممتاز,Positive
+زعلان جداً,Negative
+تأخير غير مقبول,Negative
+كم الحد الأدنى؟,Neutral
+الخدمة ممتازة,Positive
+تعامل راقٍ,Positive
+ما هو رقم الحساب؟,Neutral
+سعيد جداً,Positive
+أريد معرفة الرصيد,Neutral
+كيف أستلم البطاقة؟,Neutral
+ما انحلت مشكلتي,Negative
+أرغب بالاستفسار,Neutral
+متى يفتح الفرع؟,Neutral
+كل شيء تمام,Positive
+خدمة سيئة,Negative
+ما ساعدتوني,Negative
+الموظف ما رد,Negative
+أشكركم,Positive
+جيد,Positive
+رائع,Positive
+حلو,Positive
+الخدمة ممتازة,Positive
+شكراً على المساعدة,Positive
+تعامل راقي,Positive
+سعيد بالخدمة,Positive
+تم حل المشكلة بسرعة,Positive
+الموظف متعاون,Positive
+استجابة سريعة,Positive
+تجربة ممتازة,Positive
+الرد كان واضح,Positive
+كل الاحترام للفريق,Positive
+أشكركم على الدعم,Positive
+أمور البنك مريحة,Positive
+تعامل محترف,Positive
+الخدمة كانت سلسة,Positive
+الاستجابة فورية,Positive
+المعاملة ممتازة,Positive
+أشكر البنك,Positive
+أداء ممتاز,Positive
+دعم سريع,Positive
+كل شيء تمام,Positive
+الخدمة سيئة,Negative
+ما حد رد علي,Negative
+تجربة سيئة جداً,Negative
+موظف غير متعاون,Negative
+انتظار طويل,Negative
+رد بطيء,Negative
+ما انحلت مشكلتي,Negative
+ما حدا ساعدني,Negative
+ما استفدت من الخدمة,Negative
+تجاهلوا طلبي,Negative
+رد غير واضح,Negative
+ما في دعم,Negative
+أداء ضعيف,Negative
+سوء في التعامل,Negative
+المشكلة ما زالت مستمرة,Negative
+ما في تواصل,Negative
+ما التزمتوا بالمواعيد,Negative
+انزعجت من الخدمة,Negative
+ما في استجابة,Negative
+رد سلبي,Negative
+متى يفتح الفرع؟,Neutral
+أريد معرفة رصيدي,Neutral
+كم الحد الأدنى لفتح حساب؟,Neutral
+هل أستطيع التحويل؟,Neutral
+أحتاج تفاصيل عن القرض,Neutral
+ما هو رقم الحساب؟,Neutral
+كيف أستلم البطاقة؟,Neutral
+هل الخدمة متوفرة الآن؟,Neutral
+ما هي رسوم السحب؟,Neutral
+هل يوجد صراف قريب؟,Neutral
+متى يتم الإيداع؟,Neutral
+هل أحتاج إلى موعد؟,Neutral
+هل يمكن تحويل الراتب؟,Neutral
+ما هي شروط فتح حساب؟,Neutral
+أين الفرع الأقرب؟,Neutral
+هل أستطيع تحديث بياناتي؟,Neutral
+ما هو نوع الحساب المناسب؟,Neutral
+هل متاح التحويل الدولي؟,Neutral
+كم هي عمولة التحويل؟,Neutral
+هل أستطيع استخدام التطبيق؟,Neutral
+المعاملة كانت رائعة,Positive
+أحببت طريقة الرد,Positive
+الموظفة كانت لبقة,Positive
+الخدمة كانت سريعة,Positive
+كل شيء تم بمرونة,Positive
+الخدمة الهاتفية ممتازة,Positive
+استقبال رائع,Positive
+تم حل مشكلتي فوراً,Positive
+تعامل ممتاز من الموظف,Positive
+أشعر بالرضا الكامل,Positive
+أنصح بالتعامل مع البنك,Positive
+دعم ممتاز,Positive
+تطبيق البنك سهل ومريح,Positive
+الموظف ساعدني كثيراً,Positive
+الإجراءات كانت سهلة,Positive
+المكالمة كانت مفيدة,Positive
+خدمة العملاء فعالة,Positive
+أداء متميز,Positive
+أحببت التعامل مع البنك,Positive
+رد محترف,Positive
+الرد تم بسرعة,Positive
+لم أواجه أي مشكلة,Positive
+تجاوب سريع,Positive
+الدعم الفني ممتاز,Positive
+شرح وافي,Positive
+معلومات دقيقة,Positive
+الخدمة كانت فوق التوقعات,Positive
+أداء راقٍ,Positive
+شرح مبسط,Positive
+كل شيء تم كما هو متوقع,Positive
+أشكر الفريق على التعامل,Positive
+المكالمة كانت مريحة,Positive
+شرح جيد,Positive
+الرد كان مهذب,Positive
+استفدت كثيراً,Positive
+التعامل كان سلس,Positive
+الدعم مستمر,Positive
+اتصال سريع,Positive
+رد واضح,Positive
+الخدمة ممتازة جداً,Positive
+أداء رائع,Positive
+استجابة فورية,Positive
+تعامل ممتاز جداً,Positive
+تجربة مرضية,Positive
+ارتحت كثيراً بالخدمة,Positive
+الخدمة عبر التطبيق ممتازة,Positive
+شرح واضح جداً,Positive
+كل شيء كان مثالي,Positive
+تطبيق ممتاز,Positive
+دعم متواصل,Positive
+رد الموظف كان سيئ,Negative
+الخدمة بطيئة جداً,Negative
+أزعجني التأخير,Negative
+الموظف لم يكن متعاون,Negative
+لم يفهموا مشكلتي,Negative
+اتصال دون فائدة,Negative
+تم تجاهلي,Negative
+لا يوجد أي مساعدة,Negative
+موظفة غير لبقة,Negative
+ما في تجاوب,Negative
+الخدمة سيئة عبر التطبيق,Negative
+تعامل مستفز,Negative
+رد مزعج,Negative
+مكالمة غير مفيدة,Negative
+أداء غير مرضي,Negative
+لم أستفد شيئاً,Negative
+تجربة محبطة,Negative
+المشكلة ما زالت قائمة,Negative
+لا رد واضح,Negative
+الموظف لم يرد,Negative
+تأخير في الرد,Negative
+لا يوجد تواصل,Negative
+أشعر بالإحباط,Negative
+رد مكرر وغير مفيد,Negative
+الخدمة سيئة جداً,Negative
+لم يتم التواصل معي,Negative
+ما في أي رد,Negative
+رد سيء,Negative
+رد جاف,Negative
+لا أحد أجاب,Negative
+تجربة مزعجة,Negative
+خدمة سيئة جداً,Negative
+الموظف غير متجاوب,Negative
+لم تحل مشكلتي,Negative
+اتصال غير فعال,Negative
+لا يوجد دعم حقيقي,Negative
+المشكلة تعقدت أكثر,Negative
+لا أحد تابع موضوعي,Negative
+استقبال سيئ,Negative
+ما في احترام,Negative
+الخدمة بائسة,Negative
+لم يتم توضيح المعلومات,Negative
+تجربة مخيبة,Negative
+الدعم لم يكن مفيد,Negative
+انزعاج من الانتظار,Negative
+ما وصلني رد,Negative
+الموظف لم يهتم,Negative
+خدمة رديئة,Negative
+ردود سطحية وغير مفيدة,Negative
+تجاهل واضح,Negative
+اتصال مزعج,Negative
+أين يمكنني تحديث بياناتي؟,Neutral
+ما هو رقم خدمة العملاء؟,Neutral
+ما عدد الفروع في رام الله؟,Neutral
+هل توفرون خدمات تحويل؟,Neutral
+هل يمكن فتح حساب أونلاين؟,Neutral
+هل تقدمون خدمة عملاء باللغة الإنجليزية؟,Neutral
+كم تستغرق معاملة القرض؟,Neutral
+ما هو الحد الأعلى للسحب؟,Neutral
+ما هي أنواع الحسابات؟,Neutral
+هل أحتاج لتوثيق الحساب؟,Neutral
+كيف يتم احتساب الفوائد؟,Neutral
+ما هو جدول الأقساط؟,Neutral
+هل أستطيع السحب من أي صراف؟,Neutral
+هل البطاقة مسبقة الدفع؟,Neutral
+ما هي متطلبات فتح حساب؟,Neutral
+ما هو الحد الائتماني؟,Neutral
+هل تقدمون خدمات استثمارية؟,Neutral
+ما هو رقم الفرع؟,Neutral
+أين أقرب جهاز صراف؟,Neutral
+كيف يمكنني تغيير كلمة السر؟,Neutral
+هل يمكنني تفعيل البطاقة عبر الهاتف؟,Neutral
+ما هو رقم الآيبان؟,Neutral
+كيف يمكنني الحصول على كشف حساب؟,Neutral
+هل تقدمون خدمة الرسائل النصية؟,Neutral
+هل يمكنني الغاء البطاقة؟,Neutral
+ما هي رسوم تحويل الأموال؟,Neutral
+ما هي فترة سماح السداد؟,Neutral
+هل يمكنني طلب دفتر شيكات؟,Neutral
+كم هو الحد الأدنى لفتح حساب توفير؟,Neutral
+ما هي ميزات الحساب الجاري؟,Neutral
+ما هي أنواع القروض المتاحة؟,Neutral
+كيف يمكنني رفع شكوى؟,Neutral
+هل هناك رسوم على السحب الدولي؟,Neutral
+ما هي طريقة إيداع شيك؟,Neutral
+ما هو سعر الفائدة؟,Neutral
+هل أحتاج لحضور شخصي لفتح حساب؟,Neutral
+ما نوع الوثائق المطلوبة؟,Neutral
+هل يمكنني استخدام التطبيق خارج فلسطين؟,Neutral
+هل يمكنني استرجاع كلمة المرور؟,Neutral
+ما هي خدمات البنك الإلكترونية؟,Neutral
+هل الحساب يدعم العملات الأجنبية؟,Neutral
+هل يوجد دعم 24/7؟,Neutral
+ما هي حدود الاستخدام اليومي؟,Neutral
+هل يتم خصم رسوم شهرية؟,Neutral
+هل يمكن فتح حساب للقاصرين؟,Neutral
+ما الفرق بين الحساب الشخصي والتجاري؟,Neutral
+هل هناك حد أقصى للتحويل؟,Neutral
+هل تدعمون أبل باي؟,Neutral
+هل تقدمون بطاقات افتراضية؟,Neutral
+هل يوجد برنامج نقاط؟,Neutral
+الخدمة سريعة ومحترمة,Positive
+تم الرد باحترافية,Positive
+أشكر الموظف على المساعدة,Positive
+الخدمة ممتازة من أول مكالمة,Positive
+لم أواجه أي تعقيدات,Positive
+تجربتي كانت إيجابية جدًا,Positive
+تم تحويل المكالمة بسرعة,Positive
+أشكر البنك على المتابعة,Positive
+كل شيء واضح وسهل,Positive
+أحببت طريقة التعامل معي,Positive
+تم حل المشكلة فورًا,Positive
+الخدمة كانت كما توقعت,Positive
+استفدت كثيرًا من التوضيح,Positive
+الرد كان في الوقت المناسب,Positive
+خدمة عملاء راقية,Positive
+أشكر الفريق على الدعم,Positive
+كل شيء تم بكل سلاسة,Positive
+تجربة مميزة فعلًا,Positive
+أحببت التطبيق الجديد,Positive
+الخدمة الهاتفية رائعة,Positive
+شرح سهل ومباشر,Positive
+الموظف كان صبورًا جدًا,Positive
+رد سريع وواضح,Positive
+تواصل مميز من الموظف,Positive
+الخدمة ممتازة في الفرع,Positive
+أداء فاق توقعاتي,Positive
+أشعر بالثقة في هذا البنك,Positive
+تعامل إنساني ومحترم,Positive
+خدمة رائعة حقًا,Positive
+البنك يهتم بالعملاء,Positive
+الرد كان كافيًا ومفيدًا,Positive
+المشكلة تم حلها بالكامل,Positive
+أحببت دعم التطبيق,Positive
+سرعة في تنفيذ المعاملة,Positive
+أقدر لكم هذه الخدمة,Positive
+تجربة ممتازة مع الدعم,Positive
+شكراً للرد السريع,Positive
+موظفة لطيفة جدًا,Positive
+تمت المساعدة بالكامل,Positive
+اهتمام رائع بالعميل,Positive
+الخدمة الهاتفية مفيدة,Positive
+تمت الخدمة على أكمل وجه,Positive
+البنك يقدم خدمات رائعة,Positive
+شكرًا على التعامل الراقي,Positive
+شرح وافي لكل التفاصيل,Positive
+فريق ممتاز وذو كفاءة,Positive
+تم الرد باهتمام,Positive
+أحببت التعامل مع الطاقم,Positive
+المكالمة كانت إيجابية,Positive
+تطبيق ذكي وسهل الاستخدام,Positive
+المشكلة لم تُحل,Negative
+لا يوجد دعم حقيقي,Negative
+تم تجاهل رسالتي,Negative
+الرد غير مفهوم,Negative
+خدمة العملاء سيئة,Negative
+كل مرة نفس المشكلة,Negative
+رد متأخر وغير واضح,Negative
+ما في أي تجاوب,Negative
+تجربتي كانت سيئة جدًا,Negative
+الموظف أغلق الخط,Negative
+لا أحد مهتم بحل المشكلة,Negative
+تواصل ضعيف جدًا,Negative
+التطبيق لا يعمل,Negative
+انتظرت كثيرًا دون نتيجة,Negative
+ردود عامة وغير دقيقة,Negative
+تعامل غير لائق,Negative
+المكالمة كانت مزعجة,Negative
+المشكلة ما زالت قائمة,Negative
+لم يتم التواصل معي,Negative
+ما استفدت شيء,Negative
+الإجراءات معقدة جدًا,Negative
+رد فظ,Negative
+لا يوجد أي احترام,Negative
+تم رفض طلبي بدون توضيح,Negative
+التأخير غير مبرر,Negative
+خدمة سيئة في الفرع,Negative
+موظف غير متعاون,Negative
+تطبيق غير مستقر,Negative
+تمت معاملتي بشكل سيء,Negative
+لا أريد التعامل معكم مجددًا,Negative
+تجربة غير مرضية,Negative
+ردود باردة,Negative
+ما حد تابع معي,Negative
+سوء في المعاملة,Negative
+الرد غير منطقي,Negative
+تجاهل تام,Negative
+موظف لا يهتم بالعميل,Negative
+أشعر بالإحباط الكبير,Negative
+المشكلة تكررت كثيرًا,Negative
+المكالمة انقطعت فجأة,Negative
+رد غير محترف,Negative
+ما حدا رجع لي,Negative
+كل مرة أوعد بدون تنفيذ,Negative
+خدمة دون المستوى,Negative
+شعرت بالإهمال,Negative
+تعامل غير مهني,Negative
+الرد غير واضح تمامًا,Negative
+ما حصلت على أي مساعدة,Negative
+لا يوجد أي متابعة,Negative
+البنك لا يستجيب لشكاوى,Negative
+ما هي مواعيد دوام الفرع؟,Neutral
+كيف يمكنني تحديث رقم الهاتف؟,Neutral
+ما نوع الحساب الأفضل لي؟,Neutral
+هل يمكنني فتح حساب باسم طفلي؟,Neutral
+هل أحتاج لزيارة الفرع؟,Neutral
+ما هو رقم البطاقة؟,Neutral
+كيف يمكنني طلب بطاقة جديدة؟,Neutral
+هل يمكنني تجميد الحساب مؤقتًا؟,Neutral
+ما الفرق بين أنواع البطاقات؟,Neutral
+كيف يمكنني إعادة تعيين كلمة المرور؟,Neutral
+ما هي الوثائق المطلوبة لتحويل الراتب؟,Neutral
+هل هناك حد للشراء اليومي؟,Neutral
+هل أستطيع استخدام البطاقة دوليًا؟,Neutral
+ما هو رقم حسابي الدولي؟,Neutral
+هل يتم إرسال تنبيهات عند السحب؟,Neutral
+ما هي رسوم الحساب الشهري؟,Neutral
+ما هي خيارات الادخار المتاحة؟,Neutral
+هل الحساب يوفر فوائد؟,Neutral
+هل يمكنني تحويل من تطبيق آخر؟,Neutral
+ما هي طرق التواصل مع البنك؟,Neutral
+هل الفرع مفتوح يوم السبت؟,Neutral
+كيف يمكنني معرفة رصيدي؟,Neutral
+هل يمكنني الإبلاغ عن عملية احتيال؟,Neutral
+هل يمكن دفع الفواتير عبر التطبيق؟,Neutral
+هل يوجد سقف للسحب من الصراف؟,Neutral
+ما هي مدة تفعيل البطاقة؟,Neutral
+هل يمكنني إلغاء القرض؟,Neutral
+ما هو الوقت المتوقع لإنهاء المعاملة؟,Neutral
+كيف يمكنني استخدام خدمات الإنترنت البنكي؟,Neutral
+هل يمكنني طباعة كشف حساب من التطبيق؟,Neutral
+هل يمكنني إصدار بطاقة ثانية؟,Neutral
+هل يوجد دعم في العطل الرسمية؟,Neutral
+ما هو سعر صرف الدولار اليوم؟,Neutral
+ما هي طريقة الاشتراك في خدمة الرسائل؟,Neutral
+هل يتطلب تحويل الأموال رمز OTP؟,Neutral
+هل البطاقة تقبل الشراء أونلاين؟,Neutral
+ما هي خطوات إغلاق الحساب؟,Neutral
+هل يمكنني جدولة الدفعات؟,Neutral
+ما هو تاريخ استحقاق القسط؟,Neutral
+هل أستطيع تقديم اعتراض على رسوم؟,Neutral
+هل يتم خصم ضريبة على الفائدة؟,Neutral
+هل يوجد دعم خاص لأصحاب المشاريع؟,Neutral
+ما نوع البطاقات الائتمانية المتوفرة؟,Neutral
+هل يوجد حد للسحب من التطبيق؟,Neutral
+هل يجب الحضور شخصيًا للشكوى؟,Neutral
+ما مدة صلاحية البطاقة؟,Neutral
+هل يمكن إصدار بطاقة طوارئ؟,Neutral
+هل توجد خدمة عملاء باللغة التركية؟,Neutral
+هل يدعم التطبيق بصمة الوجه؟,Neutral
+الموظف كان متعاون جدًا,Positive
+تمت خدمتي بسرعة وكفاءة,Positive
+أحببت طريقة الشرح,Positive
+كل شيء كان منظمًا وواضحًا,Positive
+خدمة سريعة وبدون تعقيد,Positive
+شكراً لردكم السريع والدقيق,Positive
+تم استقبال طلبي بكل سهولة,Positive
+التواصل ممتاز ومهني,Positive
+الموظف كان لطيف جدًا,Positive
+أحببت المرونة في التعامل,Positive
+تم تحديث البيانات فورًا,Positive
+تم توجيهي بشكل صحيح,Positive
+التطبيق سهل الاستخدام,Positive
+حصلت على الدعم المطلوب,Positive
+أحببت مستوى الاحترافية,Positive
+الخدمة تمت بكل سلاسة,Positive
+كانت تجربة مريحة جدًا,Positive
+الدعم الفني متميز,Positive
+سعدت بالرد على استفساراتي,Positive
+تجربة رائعة في الفرع,Positive
+حصلت على شرح كافٍ ومفيد,Positive
+أسلوب التعامل راقٍ,Positive
+شكراً على حسن المعاملة,Positive
+المساعدة كانت فوق المتوقع,Positive
+تمت العملية بنجاح تام,Positive
+سعيد بخدمات البنك,Positive
+سرعة رائعة في الرد,Positive
+أشكر البنك على الجهود,Positive
+تم تفعيل البطاقة فورًا,Positive
+الموظف فاق توقعاتي,Positive
+لم أحصل على أي رد,Negative
+تم تجاهل استفساري تمامًا,Negative
+الموظف غير مؤهل للتعامل,Negative
+تم تأخير المعاملة بشكل غير مبرر,Negative
+لا يوجد من يرد على الهاتف,Negative
+شعرت بعدم الاهتمام,Negative
+التطبيق يعلق باستمرار,Negative
+خدمة العملاء دون المستوى,Negative
+تم الرد علي بأسلوب غير لائق,Negative
+لم يتم توضيح الخطوات بشكل جيد,Negative
+انتظرت طويلًا بدون فائدة,Negative
+شعرت بالإهمال الكامل,Negative
+المشكلة لم تُحل بعد عدة محاولات,Negative
+لا يوجد متابعة بعد الشكوى,Negative
+الرد بطيء جدًا,Negative
+تلقيت معلومات متضاربة,Negative
+لم أستطع التواصل مع الدعم,Negative
+رفضوا مساعدتي بدون سبب,Negative
+الإجراءات معقدة وغير مفهومة,Negative
+لا أشعر بالأمان عند استخدام التطبيق,Negative
+طريقة الكلام كانت غير مهنية,Negative
+تم إنهاء المكالمة عليّ فجأة,Negative
+أواجه نفس المشكلة دومًا,Negative
+أشعر بعدم التقدير كعميل,Negative
+الدعم غير متوفر خارج ساعات العمل,Negative
+لا يوجد أي حلول واضحة,Negative
+تم نقلي من موظف لموظف دون فائدة,Negative
+لم يتم توضيح سبب الرفض,Negative
+لا أحد تابع المشكلة معي,Negative
+الخدمة سيئة جدًا للأسف,Negative
+كيف أفتح حساب جاري؟,Neutral
+ما هي رسوم التحويل الداخلي؟,Neutral
+ما الوقت المتوقع لتحويل الراتب؟,Neutral
+هل يمكنني إضافة مستفيد جديد؟,Neutral
+ما شروط فتح حساب توفير؟,Neutral
+كيف أطلب دفتر شيكات؟,Neutral
+ما هي مزايا البطاقة الائتمانية؟,Neutral
+هل توجد فروع قريبة مني؟,Neutral
+ما الحد الأقصى للسحب النقدي؟,Neutral
+كيف أغير رقم سري للبطاقة؟,Neutral
+هل توجد خدمة إشعارات على التطبيق؟,Neutral
+ما الفرق بين الحساب الذهبي والفضي؟,Neutral
+كيف أوقف البطاقة مؤقتًا؟,Neutral
+ما هي طرق الدفع الإلكتروني المتاحة؟,Neutral
+هل يوجد رقم لخدمة الطوارئ؟,Neutral
+كيف أطلب كشف حساب شهري؟,Neutral
+هل يمكنني جدولة دفعات القرض؟,Neutral
+ما الوثائق المطلوبة لتحديث البيانات؟,Neutral
+كيف أستفسر عن حالة طلبي؟,Neutral
+هل هناك رسوم سنوية للبطاقة؟,Neutral
+كيف أرفع شكوى رسمية؟,Neutral
+هل يمكن استخدام التطبيق خارج البلد؟,Neutral
+ما هي الخدمات المتاحة عبر الهاتف؟,Neutral
+هل تقدمون قروضًا تعليمية؟,Neutral
+هل أستطيع تغيير الفرع الرئيسي؟,Neutral
+ما خطوات تفعيل خاصية الدفع NFC؟,Neutral
+كيف أغير نوع الحساب؟,Neutral
+ما هي ساعات العمل في رمضان؟,Neutral
+هل توجد خدمة تسجيل الدخول بالبصمة؟,Neutral
+هل يوجد حد يومي للتحويلات,Neutral
+خدمة استثنائية,Positive
+تجربة رائعة,Positive
+أداء مذهل,Positive
+سعيد جدًا بالدعم,Positive
+شكرًا على المساعدة الفعالة,Positive
+تم حل المشكلة باحترافية,Positive
+الموظفون متعاونون للغاية,Positive
+تعامل سلس ومريح,Positive
+الردود واضحة ومفيدة,Positive
+أشكركم على الصبر,Positive
+الخدمة تفوق التوقعات,Positive
+دعم فوري,Positive
+مستوى احترافي رائع,Positive
+تجربة ممتعة,Positive
+راضٍ تمامًا,Positive
+معاملة مميزة,Positive
+الدعم كان سريعًا,Positive
+فريق عمل ممتاز,Positive
+أداء بلا أخطاء,Positive
+إجراءات واضحة,Positive
+تعامل لطيف,Positive
+سرعة في التنفيذ,Positive
+خدمة عملاء متميزة,Positive
+معلومات دقيقة,Positive
+ردود مهذبة,Positive
+اهتمام بالتفاصيل,Positive
+مرونة في الحلول,Positive
+تجربة إيجابية,Positive
+دعم متكامل,Positive
+حلول مبتكرة,Positive
+راحة بال,Positive
+ثقة في الخدمة,Positive
+إيجابية رائعة,Positive
+احترام العميل,Positive
+متابعة ممتازة,Positive
+خدمة لا تقارن,Positive
+سرعة الاستجابة مذهلة,Positive
+إجراءات بسيطة,Positive
+راضٍ عن النتيجة,Positive
+دعم مستمر,Positive
+فريق محترف,Positive
+ردود شاملة,Positive
+أسلوب راقي,Positive
+خدمة مضمونة,Positive
+تجربة مرضية,Positive
+دعم مميز,Positive
+سهولة في التواصل,Positive
+معلومات مفيدة,Positive
+خدمة متكاملة,Positive
+تجاوب ممتاز,Positive
+تعليمات واضحة,Positive
+خدمة سريعة,Positive
+دقة في المعلومات,Positive
+راحة في التعامل,Positive
+مستوى عالٍ,Positive
+فعالية كبيرة,Positive
+أداء متقن,Positive
+احترافية واضحة,Positive
+سرعة في الإنجاز,Positive
+دعم حقيقي,Positive
+اهتمام بالعميل,Positive
+متابعة دقيقة,Positive
+تعامل إيجابي,Positive
+خدمة متماسكة,Positive
+ردود سريعة,Positive
+حلول عملية,Positive
+راحة نفسية,Positive
+ثقة كبيرة,Positive
+إيجابية ملحوظة,Positive
+احترام متبادل,Positive
+مهارة في التعامل,Positive
+خدمة متطورة,Positive
+سرعة في المعالجة,Positive
+إجابات شافية,Positive
+رضاء تام,Positive
+دعم متواصل,Positive
+فريق مدرب,Positive
+ردود وافية,Positive
+أخلاق عالية,Positive
+خدمة آمنة,Positive
+تجربة ناجحة,Positive
+دعم قوي,Positive
+سهولة في الإجراءات,Positive
+معلومات كافية,Positive
+خدمة متجانسة,Positive
+تجاوب فوري,Positive
+توجيه صحيح,Positive
+خدمة فورية,Positive
+دقة متناهية,Positive
+راحة كاملة,Positive
+مستوى رفيع,Positive
+فعالية عالية,Positive
+أداء متكامل,Positive
+احترافية عالية,Positive
+سرعة مذهلة,Positive
+دعم مخلص,Positive
+اهتمام فائق,Positive
+متابعة حثيثة,Positive
+تعامل مميز,Positive
+خدمة متقنة,Positive
+أسوأ خدمة,Negative
+لا يوجد اهتمام,Negative
+تجربة مزرية,Negative
+معاملة سيئة,Negative
+رد غير مجدي,Negative
+تأخير مبالغ فيه,Negative
+موظف غير مبال,Negative
+إهمال واضح,Negative
+لا يوجد حلول,Negative
+مشاكل متكررة,Negative
+ردود غير مسؤولة,Negative
+تعامل فظ,Negative
+خدمة كارثية,Negative
+لا يوجد دعم,Negative
+إحباط شديد,Negative
+تجاهل متعمد,Negative
+معاملة غير محترمة,Negative
+رد غير منطقي,Negative
+أخطاء متتالية,Negative
+لا يوجد متابعة,Negative
+خدمة مخزية,Negative
+عدم احتراف,Negative
+إجراءات معقدة,Negative
+فشل ذريع,Negative
+رد غير كاف,Negative
+تأخير غير مبرر,Negative
+موظف غير كفء,Negative
+إهمال في الخدمة,Negative
+لا يوجد حل,Negative
+مشاكل دائمة,Negative
+ردود سلبية,Negative
+تعامل مستفز,Negative
+خدمة دون المستوى,Negative
+لا يوجد تجاوب,Negative
+إحباط مستمر,Negative
+تجاهل لطلباتي,Negative
+معاملة مهينة,Negative
+رد غير دقيق,Negative
+أخطاء فادحة,Negative
+لا يوجد تواصل,Negative
+خدمة سيئة للغاية,Negative
+سوء إدارة,Negative
+إجراءات بطيئة,Negative
+فشل في الخدمة,Negative
+رد غير مفيد,Negative
+تأخير متعمد,Negative
+موظف غير مؤهل,Negative
+إهمال متكرر,Negative
+لا يوجد اهتمام بحل المشكلة,Negative
+مشاكل لا تنتهي,Negative
+ردود غير واضحة,Negative
+تعامل سيء,Negative
+خدمة غير مقبولة,Negative
+لا يوجد استجابة,Negative
+إحباط كبير,Negative
+تجاهل تام,Negative
+معاملة غير لائقة,Negative
+رد غير صحيح,Negative
+أخطاء مستمرة,Negative
+لا يوجد تفاعل,Negative
+خدمة رديئة جدًا,Negative
+ضعف في الأداء,Negative
+إجراءات غير مفهومة,Negative
+فشل في المعاملة,Negative
+رد غير كامل,Negative
+تأخير يسبب الإزعاج,Negative
+موظف غير محترم,Negative
+إهمال في المعاملة,Negative
+لا يوجد مساعدة,Negative
+مشاكل معقدة,Negative
+ردود غير مرضية,Negative
+تعامل غير مقبول,Negative
+خدمة غير مرضية,Negative
+لا يوجد حلول عملية,Negative
+إحباط يومي,Negative
+تجاهل مستمر,Negative
+معاملة سيئة للغاية,Negative
+رد غير مناسب,Negative
+أخطاء غير معقولة,Negative
+لا يوجد جهد لحل المشكلة,Negative
+خدمة سيئة بامتياز,Negative
+سوء تنظيم,Negative
+إجراءات غير فعالة,Negative
+فشل ذريع في الخدمة,Negative
+رد غير صريح,Negative
+تأخير غير معقول,Negative
+موظف غير مهتم,Negative
+إهمال فادح,Negative
+لا يوجد تحسن,Negative
+مشاكل مزمنة,Negative
+ردود غير صادقة,Negative
+هل يمكنني تغيير العنوان؟,Neutral
+ما هي رسوم الحساب؟,Neutral
+كيف أعدل بياناتي؟,Neutral
+ما مدة التسليم؟,Neutral
+هل يوجد دعم فني؟,Neutral
+ما شروط الإرجاع؟,Neutral
+كيف أرفع طلبًا؟,Neutral
+ما هي ساعات العمل؟,Neutral
+هل تقدمون شحنًا مجانيًا؟,Neutral
+ما هو رقم الطلب؟,Neutral
+كيف أتحقق من التوفر؟,Neutral
+ما سياسة الخصوصية؟,Neutral
+هل يوجد ضمان؟,Neutral
+كيف أستبدل المنتج؟,Neutral
+ما هي طرق الدفع؟,Neutral
+هل يمكنني الدفع لاحقًا؟,Neutral
+ما هو الرصيد المتبقي؟,Neutral
+كيف ألغي الاشتراك؟,Neutral
+ما هي خيارات التوصيل؟,Neutral
+هل يوجد خصم للكميات؟,Neutral
+كيف أضيف بطاقة دفع؟,Neutral
+ما هو تاريخ الشحن؟,Neutral
+هل يمكن التوصيل خارج المدينة؟,Neutral
+ما هي مدة الضمان؟,Neutral
+كيف أتتبع الطلب؟,Neutral
+ما هي الوثائق المطلوبة؟,Neutral
+هل توجد فواتير ضريبية؟,Neutral
+كيف أغير كلمة المرور؟,Neutral
+ما هي فئات المنتجات؟,Neutral
+هل يوجد دليل استخدام؟,Neutral
+كيف أطلب فاتورة؟,Neutral
+ما هو سعر المنتج؟,Neutral
+هل يمكنني حجز المنتج؟,Neutral
+ما هي أحجام المنتجات؟,Neutral
+كيف أتواصل مع الإدارة؟,Neutral
+ما هي عروض اليوم؟,Neutral
+هل توجد خصومات موسمية؟,Neutral
+كيف أشحن إلى عنوان آخر؟,Neutral
+ما هي تكلفة الشحن؟,Neutral
+هل يمكنني تعديل الطلب؟,Neutral
+ما هي المواد المستخدمة؟,Neutral
+كيف أعيد المنتج؟,Neutral
+ما هو رقم الدعم؟,Neutral
+هل يوجد خدمة صيانة؟,Neutral
+كيف أحصل على خصم؟,Neutral
+ما هي شروط التوصيل؟,Neutral
+هل يمكن الدفع عند الاستلام؟,Neutral
+ما هي مدة الصلاحية؟,Neutral
+كيف أتحقق من الفاتورة؟,Neutral
+ما هي الألوان المتاحة؟,Neutral
+هل توجد مقاسات أكبر؟,Neutral
+كيف أستخدم القسيمة؟,Neutral
+ما هو كود التخفيض؟,Neutral
+هل يمكن تجديد الضمان؟,Neutral
+ما هي التعليمات اللازمة؟,Neutral
+كيف أفتح تذكرة دعم؟,Neutral
+ما هي سياسة الإلغاء؟,Neutral
+هل يوجد دفع بالتقسيط؟,Neutral
+كيف أستعلم عن العرض؟,Neutral
+ما هي المكونات؟,Neutral
+هل توجد نسخة تجريبية؟,Neutral
+كيف أغير اللغة؟,Neutral
+ما هو الحد الأدنى للطلب؟,Neutral
+هل يمكن تفعيل الخدمة الآن؟,Neutral
+ما هي البلدان المشمولة؟,Neutral
+كيف أعدل كمية الطلب؟,Neutral
+ما هو موعد التحديث؟,Neutral
+هل يوجد توفر في المخزن؟,Neutral
+كيف أطلب خدمة مخصصة؟,Neutral
+ما هي خيارات الألوان؟,Neutral
+هل يمكن تجميد الحساب؟,Neutral
+ما هي رسوم التوصيل الدولية؟,Neutral
+كيف أتحقق من حالة الطلب؟,Neutral
+ما هي المواصفات الفنية؟,Neutral
+هل توجد عروض للتجديد؟,Neutral
+كيف أضيف عنوانًا جديدًا؟,Neutral
+ما هي فترة التجربة؟,Neutral
+هل يمكنني دفع جزء من المبلغ؟,Neutral
+ما هي الخدمات الإضافية؟,Neutral
+كيف أغير طريقة الدفع؟,Neutral
+ما هي الأوزان المتاحة؟,Neutral
+هل يوجد دعم للشركات؟,Neutral
+كيف أسترد المبلغ؟,Neutral
+ما هي ضريبة القيمة المضافة؟,Neutral
+هل يمكن التوصيل في عطلة؟,Neutral
+كيف أتحقق من الرصيد؟,Neutral
+ما هي التعليمات الخاصة؟,Neutral
+هل توجد خدمة تركيب؟,Neutral
+كيف أستخدم الخدمة؟,Neutral
+ما هو تاريخ الإصدار؟,Neutral
+هل يمكنني طلب عينة؟,Neutral
+ما هي سرعة المعالجة؟,Neutral
+كيف أعدل موعد التسليم؟,Neutral
+إشراق في الخدمة,Positive
+دعم متفانٍ,Positive
+إتقان في التنفيذ,Positive
+لغة التعامل راقية,Positive
+حلول إبداعية,Positive
+سرور بالتعامل,Positive
+كفاءة ملهمة,Positive
+تجربة مبهرة,Positive
+إيجابية مطلقة,Positive
+احترام غير مسبوق,Positive
+تفوق في الأداء,Positive
+إنجاز سريع,Positive
+عناية فائقة,Positive
+بشاشة في التعامل,Positive
+تجاوب مذهل,Positive
+ثناء على الخدمة,Positive
+عطاء غير محدود,Positive
+رقي في المعاملة,Positive
+إخلاص في العمل,Positive
+دقة محترفة,Positive
+سهولة مطلقة,Positive
+تفاعل إيجابي,Positive
+كمال في الخدمة,Positive
+لطف غير عادي,Positive
+مهارة فذة,Positive
+نظام متكامل,Positive
+همة عالية,Positive
+ودية في التعامل,Positive
+يقظة دائمة,Positive
+ابتسامة دائمة,Positive
+تألق في الأداء,Positive
+ثقة عمياء,Positive
+جودة عالية,Positive
+حرفية ممتازة,Positive
+خبرة واضحة,Positive
+سرعة خيالية,Positive
+طمأنينة كاملة,Positive
+فهم سريع,Positive
+قدرة استثنائية,Positive
+مبادرة رائعة,Positive
+نقاء في التعامل,Positive
+هدوء محبب,Positive
+احتياجاتي مجابة,Positive
+استجابة مثالية,Positive
+تسهيلات رائعة,Positive
+جوائز تقديرية,Positive
+حلول سحرية,Positive
+دعم لا يتوقف,Positive
+راحة دائمة,Positive
+سلاسة مطلقة,Positive
+طاقم مميز,Positive
+عروض مذهلة,Positive
+فريق خارق,Positive
+كلمات شكر,Positive
+لمسة إنسانية,Positive
+مفاجأة سارة,Positive
+هدية تقدير,Positive
+أخلاق عالية,Positive
+براعة في الشرح,Positive
+تكريم العميل,Positive
+حلول جذرية,Positive
+دعم نفسي,Positive
+روح التعاون,Positive
+سهولة مدهشة,Positive
+طمأنة العميل,Positive
+فعالية قصوى,Positive
+كفاءة عالية,Positive
+متابعة حثيثة,Positive
+نصائح ذهبية,Positive
+همس لطيف,Positive
+ابتكار رائع,Positive
+تحسن مستمر,Positive
+تقدم ملحوظ,Positive
+جو من الراحة,Positive
+حلول مبتكرة,Positive
+دقة فائقة,Positive
+رعاية كاملة,Positive
+سمعة طيبة,Positive
+عطاء بلا حدود,Positive
+فخر بالخدمة,Positive
+كلمات طيبة,Positive
+مكافأة مجزية,Positive
+نظام ممتاز,Positive
+وضوح تام,Positive
+إبداع في العمل,Positive
+تميز مستحق,Positive
+حلول فورية,Positive
+دعم متواصل,Positive
+ردود شافية,Positive
+سعادة غامرة,Positive
+طاقم متفاني,Positive
+عنوان الثقة,Positive
+فريق متماسك,Positive
+كفاءة نادرة,Positive
+مبادرة طيبة,Positive
+نجاح باهر,Positive
+خدمة مقرفة,Negative
+تعامل بارد,Negative
+تجاهل صارخ,Negative
+خراب في الخدمة,Negative
+دعم وهمي,Negative
+ردود هروبية,Negative
+سوء تنظيم,Negative
+فوضى عارمة,Negative
+كذب في الوعود,Negative
+لامبالاة صادمة,Negative
+مماطلة مقصودة,Negative
+نصب واحتيال,Negative
+وهم الخدمة,Negative
+إحباط كبير,Negative
+تلفيق الأعذار,Negative
+تلاعب بالعملاء,Negative
+خيبة أمل,Negative
+دعم معدوم,Negative
+ردود مزيفة,Negative
+سوء تخطيط,Negative
+فشل متكرر,Negative
+كوارث متتالية,Negative
+لا مبالاة,Negative
+مهزلة الخدمة,Negative
+نفاق في التعامل,Negative
+وعود كاذبة,Negative
+إهمال فاضح,Negative
+تماطل مقيت,Negative
+تجاهل متكرر,Negative
+خطأ فادح,Negative
+دعم هزيل,Negative
+ردود متحجرة,Negative
+سوء تقدير,Negative
+فشل ذريع,Negative
+كلام فارغ,Negative
+لامبالاة تامة,Negative
+مماطلة غير مقبولة,Negative
+نظام فاشل,Negative
+وعود غير واقعية,Negative
+أداء مزرٍ,Negative
+تعثر مستمر,Negative
+تخبط في الإجراءات,Negative
+خداع العملاء,Negative
+دعم غير موجود,Negative
+ردود متعالية,Negative
+سوء حظ,Negative
+فوضى إدارية,Negative
+كسل في الأداء,Negative
+لا جدوى,Negative
+ممارسات خاطئة,Negative
+نقص في الاحترام,Negative
+واقع مرير,Negative
+إساءة لفظية,Negative
+تهرب من المسؤولية,Negative
+تضليل متعمد,Negative
+خطورة الخدمة,Negative
+دعم مشبوه,Negative
+ردود مسيئة,Negative
+سوء نية,Negative
+فقدان الثقة,Negative
+كلل من الانتظار,Negative
+لا فائدة,Negative
+معاناة حقيقية,Negative
+نظام معقد,Negative
+وصول متأخر,Negative
+أجواء متوترة,Negative
+تعاسة بالتعامل,Negative
+تجاهل مطلق,Negative
+خدمة زائفة,Negative
+دعم هش,Negative
+ردود غير مسؤولة,Negative
+سوء حظ متكرر,Negative
+فقدان الأمل,Negative
+كم من الانتظار,Negative
+لا حلول,Negative
+مماطلة غير مبررة,Negative
+نظام متهاوي,Negative
+وعد كاذب,Negative
+إهدار للوقت,Negative
+تجاهل صريح,Negative
+تأخير مقيت,Negative
+خدمة مخجلة,Negative
+دعم غير كفء,Negative
+ردود غير مبالية,Negative
+سوء إدارة,Negative
+فوضى في التنفيذ,Negative
+كوارث خدمية,Negative
+لا مبرر,Negative
+مشاهد محبطة,Negative
+نقص في الكفاءة,Negative
+هل يوجد خصم للطلاب؟,Neutral
+ما هي شروط الإرجاع؟,Neutral
+كيف أغير وسيلة الدفع؟,Neutral
+ما مدة الضمان؟,Neutral
+هل يمكن التوصيل السريع؟,Neutral
+ما هي تكلفة التركيب؟,Neutral
+كيف أطلب فاتورة ضريبية؟,Neutral
+ما سياسة التبديل؟,Neutral
+هل توجد أحجام أخرى؟,Neutral
+كيف أستخدم الخصم؟,Neutral
+ما هي مواد التصنيع؟,Neutral
+هل يوجد دعم فني؟,Neutral
+كيف أعدل الطلب؟,Neutral
+ما هي أوقات الدعم؟,Neutral
+هل يمكن الحجز المسبق؟,Neutral
+ما إجراءات الاستبدال؟,Neutral
+كيف أتحقق من الصلاحية؟,Neutral
+ما هي شروط الضمان؟,Neutral
+هل يوجد توصيل مجاني؟,Neutral
+كيف أضيف مستفيدًا؟,Neutral
+ما هي حدود الشراء؟,Neutral
+هل يمكن الدفع نقدًا؟,Neutral
+كيف أغير لغة التطبيق؟,Neutral
+ما هي خيارات الأقساط؟,Neutral
+هل توجد عروض خاصة؟,Neutral
+كيف أبلغ عن عيب؟,Neutral
+ما هي فترة الإرجاع؟,Neutral
+هل يدعم نظام التشغيل؟,Neutral
+كيف أستعيد الحساب؟,Neutral
+ما هي متطلبات الصيانة؟,Neutral
+هل يمكن التوصيل اليوم؟,Neutral
+كيف أطلب نسخة احتياطية؟,Neutral
+ما هي شروط التخفيض؟,Neutral
+هل يوجد دليل المستخدم؟,Neutral
+كيف أغير موعد التسليم؟,Neutral
+ما هي مكونات المنتج؟,Neutral
+هل يمكن التوصيل ليلاً؟,Neutral
+كيف أتحقق من الجودة؟,Neutral
+ما هي إجراءات السلامة؟,Neutral
+هل توجد خدمة التوصيل؟,Neutral
+كيف أعدل البيانات؟,Neutral
+ما هي الأصناف المتاحة؟,Neutral
+هل يمكن الحجز عبر الهاتف؟,Neutral
+كيف أستخدم القسيمة؟,Neutral
+ما هي قنوات الدعم؟,Neutral
+هل يوجد صيانة منزلية؟,Neutral
+كيف أطلب خدمة ميدانية؟,Neutral
+ما هي أوقات التسليم؟,Neutral
+هل يمكن التوصيل السريع؟,Neutral
+كيف أتحقق من العروض؟,Neutral
+ما هي شروط الاستبدال؟,Neutral
+هل توجد ألوان إضافية؟,Neutral
+كيف أغير طريقة الشحن؟,Neutral
+ما هي تكلفة التركيب؟,Neutral
+هل يمكن الدفع إلكترونيًا؟,Neutral
+كيف أطلب شهادة ضمان؟,Neutral
+ما هي سياسة الإلغاء؟,Neutral
+هل يوجد دعم للجوال؟,Neutral
+كيف أعدل كمية المنتج؟,Neutral
+ما هي فترات الصيانة؟,Neutral
+هل يمكن التوصيل في العطل؟,Neutral
+كيف أتحقق من المكونات؟,Neutral
+ما هي إجراءات التشغيل؟,Neutral
+هل توجد خدمة التركيب؟,Neutral
+كيف أغير الباقة؟,Neutral
+ما هي شروط التجديد؟,Neutral
+هل يمكن التوصيل الفوري؟,Neutral
+كيف أستخدم الخصم؟,Neutral
+ما هي قيود الاستخدام؟,Neutral
+هل يوجد دعم مباشر؟,Neutral
+كيف أطلب تصريحًا؟,Neutral
+ما هي أوقات الاستلام؟,Neutral
+هل يمكن الحجز أونلاين؟,Neutral
+كيف أغير العنوان؟,Neutral
+ما هي شروط الإعادة؟,Neutral
+هل توجد مقاسات إضافية؟,Neutral
+كيف أتحقق من السعر؟,Neutral
+ما هي إجراءات الضمان؟,Neutral
+هل يوجد توصيل دولي؟,Neutral
+كيف أطلب دعمًا فنيًا؟,Neutral
+ما هي مدة التثبيت؟,Neutral
+هل يمكن التوصيل غدًا؟,Neutral
+كيف أستخدم العروض؟,Neutral
+ما هي سياسة التحديث؟,Neutral
+هل يوجد دليل التشغيل؟,Neutral
+كيف أعدل الاشتراك؟,Neutral
+ما هي تكاليف الشحن؟,Neutral
+هل يمكن الدفع لاحقًا؟,Neutral
+كيف أطلب فاتورة؟,Neutral
+ما هي شروط الخصم؟,Neutral
+هل توجد ألوان أخرى؟,Neutral
+كيف أغير رقم الجوال؟,Neutral
+ما هي فترة الصلاحية؟,Neutral
+هل يمكن التوصيل الآن؟,Neutral
