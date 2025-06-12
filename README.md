@@ -21,7 +21,9 @@ This project provides a Flask-based REST API for analyzing sentiment in Arabic t
 ⚠️ **Important**: The model files are not included in this repository due to size limitations. You can:
 
 1. Run the following command to generate the model files:
+```bash
 python fine_tune.py
+```
 2. Ensure the following files are present in the directory:
    - tokenizer.json
    - vocab.txt
