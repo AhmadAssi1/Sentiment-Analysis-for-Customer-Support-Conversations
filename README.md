@@ -20,9 +20,9 @@ This project provides a Flask-based REST API for analyzing sentiment in Arabic t
 
 ⚠️ **Important**: The model files are not included in this repository due to size limitations. You can:
 
-1. Download the model files separately from [provide_your_download_link]
-2. Place them in the `fine_tuned_model` directory
-3. Ensure the following files are present in the directory:
+1. Run the following command to generate the model files:
+python fine_tune.py
+2. Ensure the following files are present in the directory:
    - tokenizer.json
    - vocab.txt
    - pytorch_model.bin
