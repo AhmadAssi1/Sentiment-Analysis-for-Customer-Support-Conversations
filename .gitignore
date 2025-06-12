@@ -1,0 +1,43 @@
+# Model files and checkpoints
+fine_tuned_model/
+results/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.model
+checkpoint*/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Large data files
+*.csv
+*.json
+!package.json
+!package-lock.json 
